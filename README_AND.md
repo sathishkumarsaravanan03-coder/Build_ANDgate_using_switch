@@ -29,3 +29,4 @@ It gives HIGH output only when both inputs are HIGH.
 - Takes two inputs.
 - Gives HIGH output when both inputs are HIGH.
 - Gives LOW output for other input combinations.
+- ![AND_gate](AND_gate.jpg)
